@@ -2,7 +2,7 @@
 #push google or coreos images to dockerhub or aliyun registry,
 #change the registry name and username/password to yourself's.
 
-DOCKER_HUB=l7946381/k8s
+DOCKER_HUB=l7946381
 ALI_REGISTRY=registry.cn-beijing.aliyuncs.com/will
 
 #config the following env at travis-ui
