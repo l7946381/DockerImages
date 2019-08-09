@@ -3,7 +3,7 @@
 #change the registry name and username/password to yourself's.
 
 DOCKER_HUB=l7946381
-ALI_REGISTRY=registry.cn-beijing.aliyuncs.com/will
+ALI_REGISTRY=registry.cn-beijing.aliyuncs.com/will-k8s
 
 #config the following env at travis-ui
 docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
